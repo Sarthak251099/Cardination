@@ -1,1 +1,0 @@
-from cardination import app
